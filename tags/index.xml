@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | XIN YI</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>catheter placement</title>
+      <link>/tags/catheter-placement/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/catheter-placement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recurrent network</title>
+      <link>/tags/recurrent-network/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/recurrent-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adversarial network</title>
+      <link>/tags/adversarial-network/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/adversarial-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catheter</title>
+      <link>/tags/catheter/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/catheter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classification</title>
+      <link>/tags/classification/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dermoscopy</title>
+      <link>/tags/dermoscopy/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/dermoscopy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>denoising</title>
+      <link>/tags/denoising/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/denoising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conditional random field</title>
+      <link>/tags/conditional-random-field/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/conditional-random-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>defocus blur</title>
+      <link>/tags/defocus-blur/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/defocus-blur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>local binary pattern</title>
+      <link>/tags/local-binary-pattern/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/local-binary-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plant seed</title>
+      <link>/tags/plant-seed/</link>
+      <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/plant-seed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

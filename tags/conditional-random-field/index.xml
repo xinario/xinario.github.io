@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conditional random field | XIN YI</title>
+    <link>/tags/conditional-random-field/</link>
+      <atom:link href="/tags/conditional-random-field/index.xml" rel="self" type="application/rss+xml" />
+    <description>conditional random field</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>conditional random field</title>
+      <link>/tags/conditional-random-field/</link>
+    </image>
+    
+    <item>
+      <title>LBP-based Segmentation of Defocus Blur</title>
+      <link>/publication/journal-article/defocus_segmentation/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/defocus_segmentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

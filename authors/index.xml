@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | XIN YI</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Paul Babyn</title>
+      <link>/authors/paul-babyn/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-babyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Henderson</title>
+      <link>/authors/robert-henderson/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-henderson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Adams</title>
+      <link>/authors/scott-adams/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/scott-adams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xin Yi</title>
+      <link>/authors/xin-yi/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/xin-yi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ekta Walia</title>
+      <link>/authors/ekta-walia/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ekta-walia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abdul Elnajmi</title>
+      <link>/authors/abdul-elnajmi/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/abdul-elnajmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am currently working for Circle focusing on developing techniques for cardiac image analysis. Before that, I have spent 7 years in academia, first as a PhD student in general image processing and then as a postdoctoral fellow in medical image analysis.&lt;/p&gt;
+&lt;p&gt;Although my passion for computer vision comes from T-800, the terminator, I hope my work will benefit human being and make the world a better place.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mark Eramian</title>
+      <link>/authors/mark-eramian/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-eramian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
